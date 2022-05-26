@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import AlbumDetails from './components/container/AlbumDetails/AlbumDetails';
-import ArtistAlbums from './components/container/ArtistAlbums/ArtistAlbums';
-import ArtistSearch from './components/container/ArtistSearch/ArtistSearch';
-import ResponsiveAppBar from './components/presentational/AppBar/AppBar';
+import AlbumDetails from '../AlbumDetails/AlbumDetails';
+import ArtistAlbums from '../ArtistAlbums/ArtistAlbums';
+import ArtistSearch from '../ArtistSearch/ArtistSearch';
+import ResponsiveAppBar from '../../presentational/AppBar/AppBar';
 
 export const RoutesContainer = () => {
   return (
