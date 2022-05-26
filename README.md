@@ -1,6 +1,11 @@
-# lastfm test project
+## Available Scripts
 
-## scripts
+In the project directory, you can run:
 
-### yarn install: install the dependancies
-### yarn start: run the application
+### `yarn install`
+
+Install the dependancies
+
+### `yarn build`
+
+Runs the app in the development mode.<br />
