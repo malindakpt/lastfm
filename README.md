@@ -1,3 +1,9 @@
+## This project is not fully completed due to time limitations. 
+- Not all the features in the assesment documentation are implemented
+- Unit tests needs to be added
+- UI enhancements needs to be done
+- Some code refactorings needs to be done
+
 ## Available Scripts
 
 In the project directory, you can run:
