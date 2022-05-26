@@ -28,7 +28,7 @@ const ArtistAlbums: React.FC<Props> = ({ data, onQueryParamChange }: Props) => {
             title={ele.name}
             image={ele.image[2]['#text']}
             url={ele.url}
-            description={`listeners: ${ele.listeners}`}
+            description={`Play count: ${ele.playcount}`}
           />
         </CustomLink>
       ))}
